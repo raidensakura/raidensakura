@@ -1,4 +1,6 @@
 ### Hi there 👋
+Move along, there's nothing much to see here. 
+I'm just a person who likes learning new things and fix things that aren't broken. A Diploma in Computer Science Undergraduate, and I run a Discord bot called [Shogun](https://project-mei.xyz). Check her out ✨
 
 <!--
 **raidensakura/raidensakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
