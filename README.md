@@ -5,7 +5,7 @@
 - email: hello@raidensakura.xyz
 - discord: [Raiden#5008](https://dsc.gg/transience)
 
-### # 
+### # Dev ⌨️
  <details>
   <summary>
      # Public GPG Key 🔐
