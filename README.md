@@ -54,3 +54,7 @@ hJQ50naEhdVzGRPJAL1OmRJLrIkk3cD2+5WHZC/5l+9GyMX8SivLr7/4oG6pyLBq
 Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 =z/uo
   ```
+ </details>
+ 
+ ### # Very unoriginal
+Copied readme from [@ririxidev](https://github.com/ririxidev) because I suck at design ` :< `
