@@ -57,5 +57,5 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
   ```
  </details>
  
- ### # Very unoriginal
+ ### # Very Unoriginal 😅
 Copied readme from [@ririxidev](https://github.com/ririxidev) because I suck at design ` :< `
