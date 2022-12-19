@@ -8,7 +8,7 @@
 ### # Dev 🖥️
  <details>
   <summary>
-     # Public GPG Key 🔐
+     Public GPG Key 🔐
   </summary>
   
 RSA3072: ``0D3F7E2454EFA084``
