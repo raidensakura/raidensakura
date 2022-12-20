@@ -1,11 +1,14 @@
 ![](https://files.catbox.moe/90vhhl.png)
 
 ### #about
+
 > I'm either adding features or breaking codes, one line at a time.
+
 - email: *hello@raidensakura.xyz*
-- discord: [*Raiden#5008*](https://dsc.gg/transience)
+- discord: [_Raiden#5008_](https://dsc.gg/transience)
 
 ### #commit-signing
+
  <details>
   <summary>
      pgp-public-key-🔒
@@ -54,43 +57,45 @@ hJQ50naEhdVzGRPJAL1OmRJLrIkk3cD2+5WHZC/5l+9GyMX8SivLr7/4oG6pyLBq
 Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 =z/uo
 -----END PGP PUBLIC KEY BLOCK-----
-  ```
- </details>
- 
- <details>
-  <summary>
-     pgp-private-key-🔑
-  </summary>
- <blockquote>sike</blockquote>
- </details>
+
+```
+</details>
+
+<details>
+<summary>
+   pgp-private-key-🔑
+</summary>
+<blockquote>sike</blockquote>
+</details>
 
 ### #github-stats
 
- <details>
-  <summary>
-     general-stats
-  </summary>
- <br>
- <picture>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=material-palenight&hide=contribs#gh-dark-mode-only" />
- </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=buefy&hide=contribs#gh-light-mode-only" />
- </a>
- </picture>
- </details>
- 
-  <details>
-  <summary>
-     top-languages
-  </summary>
- <br>
- <picture>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8#gh-dark-mode-only" />
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=buefy&layout=compact&langs_count=8#gh-light-mode-only" />
- </a>
- </picture>
- </details>
+<details>
+<summary>
+   general-stats
+</summary>
+<br>
+<picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=material-palenight&hide=contribs#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=buefy&hide=contribs#gh-light-mode-only" />
+</a>
+</picture>
+</details>
+
+<details>
+<summary>
+   top-languages
+</summary>
+<br>
+<picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8#gh-dark-mode-only" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=buefy&layout=compact&langs_count=8#gh-light-mode-only" />
+</a>
+</picture>
+</details>
+```
