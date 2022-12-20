@@ -63,3 +63,8 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
   </summary>
  <blockquote>sike</blockquote>
  </details>
+
+### #github-stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=buefy&layout=compact&langs_count=8#gh-light-mode-only)
