@@ -59,15 +59,7 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 ```
 </details>
 
-<details>
-<summary>pgp-private-key-🔑</summary>
-<p>sike</p>
-</details>
-
 ### #github-stats
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/?username=raidensakura&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/?username=raidensakura&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![raidensakura's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![raidensakura's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=buefy&layout=compact&langs_count=8#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
