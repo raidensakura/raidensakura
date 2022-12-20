@@ -9,12 +9,11 @@
 
 ### #commit-signing
 
- <details>
-  <summary>
-     pgp-public-key-🔒
-  </summary>
-  
-RSA3072: ``0D3F7E2454EFA084``
+<details>
+<summary>pgp-public-key-🔒</summary>
+ 
+RSA3072: <code>0D3F7E2454EFA084</code>
+ 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -57,51 +56,18 @@ hJQ50naEhdVzGRPJAL1OmRJLrIkk3cD2+5WHZC/5l+9GyMX8SivLr7/4oG6pyLBq
 Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 =z/uo
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
 </details>
 
 <details>
-<summary>
-   pgp-private-key-🔑
-</summary>
-<blockquote>sike</blockquote>
+<summary>pgp-private-key-🔑</summary>
+<p>sike</p>
 </details>
 
 ### #github-stats
 
-<details>
-<summary>
-   general-stats
-</summary>
-<br>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/?username=raidensakura&theme=material-palenight"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/?username=raidensakura&theme=buefy"
-  media="(prefers-color-scheme: light)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/?username=raidensakura&theme=material-palenight" />
-</picture>
-</details>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/?username=raidensakura&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/?username=raidensakura&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<details>
-<summary>
-   top-languages
-</summary>
-<br>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=buefy&layout=compact&langs_count=8"
-  media="(prefers-color-scheme: light)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8" />
-</picture>
-</details>
+[![raidensakura's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![raidensakura's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=buefy&layout=compact&langs_count=8#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
