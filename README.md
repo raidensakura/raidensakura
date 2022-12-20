@@ -9,11 +9,12 @@
 
 ### #commit-signing
 
-<details>
-<summary>pgp-public-key-🔒</summary>
- 
-RSA3072: <code>0D3F7E2454EFA084</code>
- 
+ <details>
+  <summary>
+     pgp-public-key-🔒
+  </summary>
+  
+RSA3072: ``0D3F7E2454EFA084``
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -43,6 +44,61 @@ PkwjzKaZ2wnDwEa3hsaL/fQzK5YdNxOb1NGW+4HwJKuN1BfkuNVxj3hZZBXk1hAa
 3jkj2yiQ09HRnjb0CIR+aqpSgGeIZPdwZSBqpWMItPI8P0sQ+flLwyYbYe3QJ44b
 Fqv5QlbWOMpJbmDsAEyKTVNwey3D0lSctNCWpy6H4jPdSRtApB8KESnIHcBJZRbZ
 TFnzD77MGI2a1N+DBLQ1vsWbFOefeGHrINYAmZ4X1bXbB3lLkbiUuA5IONTWntDA
+H2GvJj8bIdm3CPtUhGSz2PTCoY1s2HwzetGtDgZoUUk0MHuDHihPrDJ0muz1Bw37
+uhlxiq2KxPymNXsAEQEAAYkBtgQYAQgAIBYhBENFhXSmxXlXv7ylAg0/fiRU76CE
+BQJjLJAaAhsMAAoJEA0/fiRU76CEfoUL/38pDBMSh+00nWDsaFx620c0PeqX/DGN
+uCZyASoLI9pl1DbaB2X8P1zHZQUoQ9WvH1PE1nYIEPw6AzpY2g0A2BkAvSDkwP37
++LWyNpWY+RaKkjRO3z9a6dJJ8zYQxwc4i7NZsj14u/lD9kRXd8BQw+2by8C+eiXs
+pftIuo9HP51lUuf4MqFa6DvWM6nPtfGyC4K3bggaYKpEvb3/FEv3qDDMsjW+ck/F
+e3Cxurep9XdZ5lSxCaejINHppw6H1YYxsIembYoA3nYnznI/yHej30GKleVr+fN0
+rj7Ny1eLRoBnB06QsHIksQedqeieTAxt1HZ27rQVTcDZrimkP5lkg7AxOTw0pzwY
+hJQ50naEhdVzGRPJAL1OmRJLrIkk3cD2+5WHZC/5l+9GyMX8SivLr7/4oG6pyLBq
+3Tz+DE+EjCyMPNMallbbowSKup9Hq66MV171yj0SQh1V9uC6VrXD+BGLdwwQbSZW
+Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
+=z/uo
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
+</details>
+
+<details>
+<summary>
+   pgp-private-key-🔑
+</summary>
+<blockquote>sike</blockquote>
+</details>
+
+### #github-stats
+
+<details>
+<summary>
+   general-stats
+</summary>
+<br>
+<picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=material-palenight&hide=contribs#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=buefy&hide=contribs#gh-light-mode-only" />
+</a>
+</picture>
+</details>
+
+<details>
+<summary>
+   top-languages
+</summary>
+<br>
+<picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8#gh-dark-mode-only" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=buefy&layout=compact&langs_count=8#gh-light-mode-only" />
+</a>
+</picture>
+</details>
+
 H2GvJj8bIdm3CPtUhGSz2PTCoY1s2HwzetGtDgZoUUk0MHuDHihPrDJ0muz1Bw37
 uhlxiq2KxPymNXsAEQEAAYkBtgQYAQgAIBYhBENFhXSmxXlXv7ylAg0/fiRU76CE
 BQJjLJAaAhsMAAoJEA0/fiRU76CEfoUL/38pDBMSh+00nWDsaFx620c0PeqX/DGN
