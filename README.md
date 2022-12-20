@@ -1,14 +1,14 @@
 ![](https://files.catbox.moe/90vhhl.png)
 
-### # Hi 👋
-> If my codes aren't full of bugs, then I probably didn't write any.
-- email: hello@raidensakura.xyz
-- discord: [Raiden#5008](https://dsc.gg/transience)
+### #about
+> I'm either adding features or breaking codes, one line at a time.
+- email: *hello@raidensakura.xyz*
+- discord: [*Raiden#5008*](https://dsc.gg/transience)
 
-### # Dev 🖥️
+### #commit-signing
  <details>
   <summary>
-     Public GPG Key 🔐
+     pgp-public-key-🔒
   </summary>
   
 RSA3072: ``0D3F7E2454EFA084``
@@ -57,5 +57,9 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
   ```
  </details>
  
- ### # Very Unoriginal 😅
-Copied readme from [@ririxidev](https://github.com/ririxidev) because I suck at design ` :< `
+ <details>
+  <summary>
+     pgp-private-key-🔑
+  </summary>
+ <blockquote>sike</blockquote>
+ </details>
