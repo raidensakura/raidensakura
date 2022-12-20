@@ -70,10 +70,7 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 <br>
 <picture>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=material-palenight&hide=contribs#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=buefy&hide=contribs#gh-light-mode-only" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=material-palenight&hide=contribs" />
 </a>
 </picture>
 </details>
@@ -85,9 +82,6 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 <br>
 <picture>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8#gh-dark-mode-only" />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=buefy&layout=compact&langs_count=8#gh-light-mode-only" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8" />
 </picture>
 </details>
