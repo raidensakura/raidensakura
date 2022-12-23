@@ -1,13 +1,13 @@
 ![](https://files.catbox.moe/90vhhl.png)
 
-### #about
+### about
 
 > I'm either adding features or breaking codes, one line at a time.
 
 - email: *hello@raidensakura.xyz*
 - discord: [_Raiden#5008_](https://dsc.gg/transience)
 
-### #commit-signing
+### commit-signing
 
  <details>
   <summary>
@@ -61,7 +61,7 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 ```
 </details>
 
-### #github-stats
+### github-stats
 
 <details>
 <summary>
