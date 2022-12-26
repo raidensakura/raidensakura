@@ -4,7 +4,7 @@
 
 > I'm either adding features or breaking codes, one line at a time.
 
-- email: *hello@raidensakura.xyz*
+- email: *raiden@project-mei.xyz*
 - discord: [_Raiden#5008_](https://dsc.gg/transience)
 
 ### email, commit-signing
