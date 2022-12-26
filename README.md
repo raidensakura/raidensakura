@@ -7,7 +7,7 @@
 - email: *hello@raidensakura.xyz*
 - discord: [_Raiden#5008_](https://dsc.gg/transience)
 
-### commit-signing
+### email, commit-signing
 
  <details>
   <summary>
