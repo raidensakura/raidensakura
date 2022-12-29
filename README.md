@@ -7,6 +7,9 @@
 - email: *raiden@project-mei.xyz*
 - discord: [_Raiden#5008_](https://dsc.gg/transience)
 
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,vscode,docker,cloudflare,netlify" /><br>
+<img src="https://skillicons.dev/icons?i=discord,bots,html,css,python,nodejs,grafana,mongodb" /><br>
+
 ### email, commit-signing
 
  <details>
