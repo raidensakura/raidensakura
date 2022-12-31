@@ -1,4 +1,5 @@
 ![](https://files.catbox.moe/90vhhl.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6D65UW)
 
 ### about
 
