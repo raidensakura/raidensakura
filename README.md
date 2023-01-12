@@ -5,7 +5,7 @@
 
 > I'm either adding features or breaking codes, one line at a time.
 
-- email: *raiden@project-mei.xyz*
+- email: raiden at project-mei dot xyz
 - discord: [_Raiden#5008_](https://dsc.gg/transience)
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,vscode,docker,cloudflare,netlify" /><br>
