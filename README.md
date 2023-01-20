@@ -1,4 +1,4 @@
-![](https://files.catbox.moe/90vhhl.png)
+![](https://user-images.githubusercontent.com/38610216/213644686-e95d28ba-c115-4391-9210-bd37d3102c5d.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6D65UW)
 
 ### about
