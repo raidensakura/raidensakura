@@ -1,15 +1,15 @@
 ![](https://user-images.githubusercontent.com/38610216/213644686-e95d28ba-c115-4391-9210-bd37d3102c5d.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6D65UW)
 
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,vscode,docker,cloudflare,netlify" /><br>
+<img src="https://skillicons.dev/icons?i=discord,bots,html,css,python,nodejs,grafana,mongodb" /><br>
+
 ### about
 
 > I'm either adding features or breaking codes, one line at a time.
 
 - email: raiden at project-mei dot xyz
 - discord: [_Raiden#5008_](https://dsc.gg/transience)
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,vscode,docker,cloudflare,netlify" /><br>
-<img src="https://skillicons.dev/icons?i=discord,bots,html,css,python,nodejs,grafana,mongodb" /><br>
 
 ### email, commit-signing
 
@@ -63,29 +63,4 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 -----END PGP PUBLIC KEY BLOCK-----
 
 ```
-</details>
-
-### github-stats
-
-<details>
-<summary>
-   general-stats
-</summary>
-<br>
-<picture>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=raidensakura&theme=material-palenight&hide=contribs" />
-</a>
-</picture>
-</details>
-
-<details>
-<summary>
-   top-languages
-</summary>
-<br>
-<picture>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidensakura&theme=material-palenight&layout=compact&langs_count=8" />
-</picture>
 </details>
