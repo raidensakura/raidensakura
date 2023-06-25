@@ -6,7 +6,7 @@
 
 ### about
 
-> I'm either adding features or breaking codes, one line at a time.
+> I make spaghetti in the form of codes.
 
 - email: raiden at project-mei dot xyz
 - discord: [_Raiden#5008_](https://dsc.gg/transience)
