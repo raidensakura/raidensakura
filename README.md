@@ -1,4 +1,4 @@
-![230623721-c5d64ed6-a6f6-4d67-9767-593c3ba9b6ce](https://github.com/raidensakura/raidensakura/assets/38610216/aa28fb3e-3ca7-4136-9f5f-b0d89726c357)
+![249224837-aa28fb3e-3ca7-4136-9f5f-b0d89726c357(1)](https://github.com/raidensakura/raidensakura/assets/38610216/e62dc198-ce92-4866-a95d-bd4281cf7691)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6D65UW)
 
 <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,docker,cloudflare,netlify" /><br>
