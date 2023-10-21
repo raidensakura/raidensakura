@@ -68,5 +68,5 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 #### **My socials:**
 ![](https://img.shields.io/discord/616969119685935162?color=5865f2&label=Discord&logo=Discord&logoColor=white) ![](https://img.shields.io/youtube/channel/views/UCy0KY-OdaxN1-v6jqhHgesQ)
 #### **At a glance:**
-![](https://img.shields.io/website?label=Shogun%20Bot&url=https%3A%2F%2Fshogun.project-mei.xyz) ![](https://img.shields.io/website?label=Lavalink%20Status&url=https%3A%2F%2Flavalink.project-mei.xyz/metrics)
-##### View full uptime [here](https://status.project-mei.xyz/).
+![](https://img.shields.io/website?label=Shogun%20Bot&url=https%3A%2F%2Fshogun.project-mei.xyz) ![](https://img.shields.io/website?label=Lavalink%20Status&url=https%3A%2F%2Flavalink.project-mei.xyz/metrics)  
+<sub>View full uptime [here](https://status.project-mei.xyz/).</sub>
