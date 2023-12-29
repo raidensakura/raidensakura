@@ -11,7 +11,7 @@
 - email: raiden at project-mei dot xyz
 - discord: [_Raiden#5008_](https://dsc.gg/transience)
 
-### email, commit-signing
+### commit-signing
 
  <details>
   <summary>
