@@ -1,21 +1,25 @@
-![249224837-aa28fb3e-3ca7-4136-9f5f-b0d89726c357(1)](https://github.com/raidensakura/raidensakura/assets/38610216/e62dc198-ce92-4866-a95d-bd4281cf7691)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6D65UW)
+<img align="right" src="https://i.postimg.cc/nr6jT95k/32uy43.png" />
+<div align="center">
+ <img align="center" src="https://image.myanimelist.net/ui/fkLITaJTefafxFKPGRznggQU_iTUldNJDtxLfYCdw0iS6ejSEEHB_JMlh11LfqL3" />
+ 
+ ##### *I make spaghetti in the form of codes.*
 
+ #### Current pc build 
+ ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_3700X3D-ED1C24?logo=amd&logoColor=white)  
+ ![GPU](https://img.shields.io/badge/Nvidia-MSI_GeForce_RTX_3060_Ventus_2X_12GB-green?logo=nvidia&logoColor=white)  
+
+ #### **Shogun stats**
+[![](https://img.shields.io/website?label=Shogun%20is%20currently&url=https%3A%2F%2Fshogun.project-mei.xyz)](https://project-mei.xyz/) [![](https://top.gg/api/widget/servers/617592844978487316.svg)](https://top.gg/bot/617592844978487316)
+
+#### Tools & stuff
 <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,docker,cloudflare,netlify" /><br>
 <img src="https://skillicons.dev/icons?i=bots,html,css,py,js,nodejs,grafana" /><br>
 
-### about
-
-> I make spaghetti in the form of codes.
-
-- email: raiden at project-mei dot xyz
-- discord: [_Raiden#5008_](https://dsc.gg/transience)
-
-### commit-signing
+ #### PGP public key
 
  <details>
   <summary>
-     pgp-public-key-🔒
+     do-not-click🔒
   </summary>
   
 RSA3072: ``0D3F7E2454EFA084``
@@ -65,9 +69,7 @@ Feg9bVZzS0UeAk73lmT5Yc9ZccHJnJYUdw==
 ```
 </details>
 
-#### **My socials:**
-![](https://img.shields.io/discord/616969119685935162?color=5865f2&label=Discord&logo=Discord&logoColor=white) ![](https://img.shields.io/youtube/channel/views/UCy0KY-OdaxN1-v6jqhHgesQ)
-#### **Shogun statistics:**
-[![](https://img.shields.io/website?label=Shogun%20Bot&url=https%3A%2F%2Fshogun.project-mei.xyz)](https://project-mei.xyz/) [![](https://top.gg/api/widget/servers/617592844978487316.svg)](https://top.gg/bot/617592844978487316)
-
-<sub>View full uptime [here](https://status.project-mei.xyz/).</sub>
+#### Ko-fi link
+<a href="https://ko-fi.com/P5P6D65UW"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+ 
+</div>
