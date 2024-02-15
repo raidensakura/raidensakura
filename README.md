@@ -6,7 +6,7 @@
  ##### *I make spaghetti in the form of codes.*
 
  #### Current pc build 
- ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_3700X3D-ED1C24?logo=amd&logoColor=white)  
+ ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_5700X3D-ED1C24?logo=amd&logoColor=white)  
  ![GPU](https://img.shields.io/badge/Nvidia-MSI_GeForce_RTX_3060_Ventus_2X_12GB-green?logo=nvidia&logoColor=white)  
 
  #### **Shogun stats**
