@@ -10,7 +10,7 @@
  ![GPU](https://img.shields.io/badge/Nvidia-ZOTAC_RTX_3070_Ti_Trinity_OC-green?logo=nvidia&logoColor=white)  
 
  #### **Shogun stats**
-[![](https://img.shields.io/website?label=Shogun%20is%20currently&url=https%3A%2F%2Fshogun.project-mei.xyz)](https://project-mei.xyz/) [![](https://top.gg/api/widget/servers/617592844978487316.svg)](https://top.gg/bot/617592844978487316)
+[![](https://img.shields.io/website?label=Shogun%20is%20currently&url=https%3A%2F%2Fdash.project-mei.xyz)](https://project-mei.xyz/) [![](https://top.gg/api/widget/servers/617592844978487316.svg)](https://top.gg/bot/617592844978487316)
 
 #### Tools & stuff
 <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,docker,cloudflare,netlify" /><br>
