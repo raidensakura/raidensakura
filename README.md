@@ -1,4 +1,5 @@
-<img align="right" src="https://i.postimg.cc/nr6jT95k/32uy43.png" />
+<img align="right" src="https://github.com/user-attachments/assets/117622d4-5791-491f-ac9e-480e5451b79b" />
+
 <div align="center">
  <br>
  <img align="center" src="https://image.myanimelist.net/ui/fkLITaJTefafxFKPGRznggQU_iTUldNJDtxLfYCdw0iS6ejSEEHB_JMlh11LfqL3" />
