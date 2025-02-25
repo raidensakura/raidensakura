@@ -1,8 +1,8 @@
-<img align="right" src="https://github.com/user-attachments/assets/117622d4-5791-491f-ac9e-480e5451b79b" />
+<img align="right" src="https://cdn.project-mei.xyz/362805622_117622d4_5791_491f_ac9e_480e5451b79b-QMNwDG3E88Hh.png" />
 
 <div align="center">
  <br>
- <img align="center" src="https://image.myanimelist.net/ui/fkLITaJTefafxFKPGRznggQU_iTUldNJDtxLfYCdw0iS6ejSEEHB_JMlh11LfqL3" />
+ <img align="center" src="https://cdn.project-mei.xyz/68747470733a2f2f696d6167652e6d79616e696d656c6973742e6e65742f75692f666b4c4954614a546566616678464b5047527a6e676751555f6954556c644e4a4474784c665943647730695336656a53454548425f4a4d6c6831314c66714c33-v97ofuq7U43I.png" />
  
  ##### *I make spaghetti in the form of codes.*
 
