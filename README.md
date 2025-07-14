@@ -8,7 +8,7 @@
 
  #### Current pc build 
  ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_5700X3D-ED1C24?logo=amd&logoColor=white)  
- ![GPU](https://img.shields.io/badge/AMD-Acer_Nitro_Radeon_RX_9070_OC-ED1C24?logo=amd&logoColor=white)  
+ ![GPU](https://img.shields.io/badge/AMD-Acer_Nitro_Radeon_RX_9070_XT_OC-ED1C24?logo=amd&logoColor=white)  
 
  #### **Shogun stats**
 [![](https://img.shields.io/website?label=Shogun%20is%20currently&url=https%3A%2F%2Fdash.project-mei.xyz)](https://project-mei.xyz/) [![](https://top.gg/api/widget/servers/617592844978487316.svg)](https://top.gg/bot/617592844978487316)
