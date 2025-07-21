@@ -1,5 +1,3 @@
-<img align="right" src="https://cdn.project-mei.xyz/raiden_mei_hoo_honkai_impact_3_render_by_syahrul1995_difrwvs-fzLg16NIzY6g.png" />
-
 <div align="center">
  <br>
  <img align="center" src="https://cdn.project-mei.xyz/68747470733a2f2f696d6167652e6d79616e696d656c6973742e6e65742f75692f666b4c4954614a546566616678464b5047527a6e676751555f6954556c644e4a4474784c665943647730695336656a53454548425f4a4d6c6831314c66714c33-v97ofuq7U43I.png" />
@@ -18,5 +16,7 @@
 
 #### Ko-fi link
 <a href="https://ko-fi.com/P5P6D65UW"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+
+<img align="center" src="https://cdn.project-mei.xyz/raiden_mei_hoo_honkai_impact_3_render_by_syahrul1995_difrwvs-7yA1uDeNGBdP.png" />
  
 </div>
