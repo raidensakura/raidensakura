@@ -14,8 +14,7 @@
 [![](https://img.shields.io/website?label=Shogun%20is%20currently&url=https%3A%2F%2Fdash.project-mei.xyz)](https://project-mei.xyz/) [![](https://top.gg/api/widget/servers/617592844978487316.svg)](https://top.gg/bot/617592844978487316)
 
 #### Tools & stuff
-<img src="https://skillicons.dev/icons?i=git,github,bash,vscode,docker,cloudflare,netlify" /><br>
-<img src="https://skillicons.dev/icons?i=bots,html,css,py,js,nodejs,grafana" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,debian,windows,bash,docker,ansible,vscode,cloudflare,netlify,vercel,py,php,html,js,css,bootstrap,discord,ps,pr,&perline=6" /><br>
 
  #### PGP public key
 
