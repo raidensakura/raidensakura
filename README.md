@@ -1,6 +1,5 @@
 <img align="left" width="560" height="590" alt="image" src="https://github.com/user-attachments/assets/24b5ca51-09b6-4457-b5f5-ead03ea983da" />
 
-<br>
 Hi, I'm Raiden.
 
 Just a regular developer with experience in DevOps and SysAdmin.  
