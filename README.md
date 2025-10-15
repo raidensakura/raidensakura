@@ -20,3 +20,5 @@ Feel free to contact me on Discord if you need any of her functionality. You can
 Here's my ko-fi link if you prefer it over my GitHub Sponsor link.
 
 <a href="https://ko-fi.com/P5P6D65UW"><img width="200px" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+
+My girlfriend really likes [Elysia](https://honkaiimpact3.fandom.com/wiki/Elysia) so here's a picture of her 💕
