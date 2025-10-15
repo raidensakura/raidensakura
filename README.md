@@ -1,4 +1,4 @@
-<img align="left" width="560" height="590" alt="image" src="https://github.com/user-attachments/assets/24b5ca51-09b6-4457-b5f5-ead03ea983da" />
+<img align="left" width="532" height="560" alt="image" src="https://github.com/user-attachments/assets/24b5ca51-09b6-4457-b5f5-ead03ea983da" />
 
 Hi, I'm Raiden.
 
