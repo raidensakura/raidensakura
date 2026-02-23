@@ -3,7 +3,6 @@
 Hi, I'm Raiden.
 
 Just a regular developer with experience in DevOps and SysAdmin.  
-I currently work fulltime as a remote programmer.
 
 GitHub took down my Hoyolab auto login repo.  
 I moved it to [GitLab](https://gitlab.com/raidensakura/hoyolab-auto-login).
