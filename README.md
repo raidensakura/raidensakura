@@ -1,23 +1,18 @@
-<img align="left" width="480" height="506" alt="Ely" src="https://github.com/user-attachments/assets/9a3f29de-83e4-42c8-b815-232f19adb092" />
+<p align="center">
+<img align="right" width="413" height="604" alt="image" src="https://github.com/user-attachments/assets/9195f4e8-145b-40b1-ae10-73f9845a4065" />
+<br><br>
+<img  align="center" width="180" height="60" alt="image" src="https://github.com/user-attachments/assets/cbe1f4e9-7055-4ef2-a9e3-4ae7b295266d" />
+<br><br>
+<b>Software Engineer • DevOps</b><br><br></p>
 
-Hi, I'm Raiden.
-
-Just a regular developer with experience in DevOps and SysAdmin.  
-
-GitHub took down my Hoyolab auto login repo.  
-I moved it to [GitLab](https://gitlab.com/raidensakura/hoyolab-auto-login).
-
-I run a homelab where I selfhost, test and learn things.
-
-I also host a Discord bot called Shogun, she's only able to be inside 100 servers at a time.  
-Feel free to contact me on Discord if you need any of her functionality. You can check her stats down here.
-
-[![](https://img.shields.io/website?label=Shogun%20is%20currently&url=https%3A%2F%2Fdash.project-mei.xyz)](https://project-mei.xyz/)
-[![](https://top.gg/api/widget/servers/617592844978487316.svg)](https://top.gg/bot/617592844978487316)
-</div>
-
-Here's my ko-fi link if you prefer it over my GitHub Sponsor link.
-
-<a href="https://ko-fi.com/P5P6D65UW"><img width="200px" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
-
-My girlfriend loves [Elysia](https://honkaiimpact3.fandom.com/wiki/Elysia) so here's a picture of her.
+<p align="center">
+Hi there, I currently work remotely as a full time developer.<br><br>
+Feel free to check out my tech stacks over on my <a href="https://raidensakura.moe/">website</a>.<br><br>
+Here's the stats for my Discord bot that I'm currently hosting.<br>
+<a href="https://project-mei.xyz/"><img align="center" src="https://img.shields.io/website?label=Shogun%20is%20currently&url=https%3A%2F%2Fdash.project-mei.xyz" alt="Shogun Status Badge"></a>&nbsp;
+<a href="https://top.gg/bot/617592844978487316"><img align="center" src="https://top.gg/api/widget/servers/617592844978487316.svg" alt="Top.gg Server Count"></a><br><br>
+My ko-fi link is available here if you prefer not to use GitHub sponsor.
+<a href="https://ko-fi.com/P5P6D65UW"><img align="center" width="200px" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a><br><br>
+If you're an aspiring developer anywhere in my social circle, feel free to reach out to me if you have any hosting needs.
+I keep a server running 24/7 at home as an environment to learn and deploy stuff.
+</p>
