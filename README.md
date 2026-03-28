@@ -1,6 +1,6 @@
 <p align="center">
 <img align="right" width="413" height="604" alt="image" src="https://github.com/user-attachments/assets/9195f4e8-145b-40b1-ae10-73f9845a4065" />
-<br><br>
+<br><br><br>
 <img  align="center" width="180" height="60" alt="image" src="https://github.com/user-attachments/assets/cbe1f4e9-7055-4ef2-a9e3-4ae7b295266d" />
 <br><br>
 <b>Software Engineer • DevOps</b><br><br></p>
