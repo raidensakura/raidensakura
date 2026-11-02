@@ -8,9 +8,6 @@
 <p align="center">
 Hi there, I currently work remotely as a full time developer.<br><br>
 Feel free to check out my tech stacks over on my <a href="https://raidensakura.moe/">website</a>.<br><br>
-Here's the stats for my Discord bot that I'm currently hosting.<br>
-<a href="https://project-mei.xyz/"><img align="center" src="https://img.shields.io/website?label=Shogun%20is%20currently&url=https%3A%2F%2Fdash.project-mei.xyz" alt="Shogun Status Badge"></a>&nbsp;
-<a href="https://top.gg/bot/617592844978487316"><img align="center" src="https://top.gg/api/widget/servers/617592844978487316.svg" alt="Top.gg Server Count"></a><br><br>
 My ko-fi link is available here if you prefer not to use GitHub sponsor.<br>
 <a href="https://ko-fi.com/P5P6D65UW"><img align="center" width="200px" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a><br><br>
 </p>
